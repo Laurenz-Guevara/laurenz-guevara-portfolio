@@ -2,26 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+html h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  @apply text-primary;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+,
+html p {
+  @apply text-grey;
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.hero-container {
+  @apply mx-auto px-6 xl:px-16;
+  max-width: 1920px;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+/* TODO: Confirm text size working. */
+.page-container { @apply mx-auto px-6 sm:px-10 md:px-14 xl:px-20 2xl:px-52;
+  max-width: 1920px;
 }
