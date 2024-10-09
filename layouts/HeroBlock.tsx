@@ -89,7 +89,12 @@ export default function HeroBlock() {
           >
             <div className="md:text-xl">
               <h2 className="text-lightGrey md:pb-2">CONTACT</h2>
-              <p className="text font-medium">laurenz.guevara@gmail.com</p>
+              <Link
+                className="text font-medium"
+                href="mailto:laurenz.guevara@gmail.com"
+              >
+                laurenz.guevara@gmail.com
+              </Link>
             </div>
           </div>
         </div>
