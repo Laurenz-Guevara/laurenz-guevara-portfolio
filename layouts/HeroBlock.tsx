@@ -81,7 +81,7 @@ export default function HeroBlock() {
           >
             <div className="md:text-xl">
               <h2 className="text-lightGrey md:pb-2">LOCATION</h2>
-              <p className="text font-medium">United Kingdom, Midlands</p>
+              <p className="text font-medium">United Kingdom</p>
             </div>
           </div>
           <div
