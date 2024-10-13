@@ -5,8 +5,8 @@ import Link from "next/link"
 
 export default function Home() {
   return (
-    <>
-      <div className="page-container bg-secondary pb-20 pt-5 md:flex md:py-14 md:pb-32 lg:grid lg:grid-cols-12">
+    <div className="bg-secondary">
+      <div className="page-container pb-20 pt-5 md:flex md:py-14 md:pb-32 lg:grid lg:grid-cols-12">
         <div className="md:pr-8 lg:col-span-7 xl:col-span-8">
           <div
             className="pb-5 text-right text-xl text-offwhite md:text-left lg:text-2xl xl:text-3xl [&>a]:text-offwhite [&>a]:underline"
@@ -75,6 +75,6 @@ export default function Home() {
           {/* <p className="text-offwhite">Laurenz Guevara</p> */}
         </div>
       </div>
-    </>
+    </div>
   );
 }
