@@ -7,14 +7,14 @@ export default function ExperienceBlock() {
     <div>
       <div className="bg-secondary">
         <div className="page-container">
-          <div className="bg-secondary py-16">
+          <div id="Experience" className="bg-secondary py-16">
             <h1 className="text-white text-6xl -ml-0.5">Experience</h1>
           </div>
         </div>
       </div>
       <div className="page-container py-10">
         <div className="pb-10">
-          <div className="lg:wrap lg:flex">
+          <div className="lg:wrap lg:flex justify-center">
             <div>
               <div className="flex">
                 <Image
@@ -34,7 +34,7 @@ export default function ExperienceBlock() {
                   </Link>
                 </div>
               </div>
-              <div className="max-w-screen-lg py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
+              <div className=" py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
                 <h1 className="text-xl ">Front-End Developer</h1>
                 <p>
                   Scorado is a competitive events management platform bringing innovative tools and services to event organizers, communities, participants and fans across all disciplines and ability levels. Our passion for competition is what drives us on our mission - making competitive events more accessible to everyone.
@@ -58,19 +58,19 @@ export default function ExperienceBlock() {
                   </li>
                 </ul>
               </div>
+              <div>
+                <h1
+                  className="text-2xl font-bold hover:opacity-70"
+                >
+                  Technical Stack / Software
+                </h1>
+                <p className="text-lg xl:text-xl">Next.js, TypeScript, Figma, Sass, Vercel, Azure, Bitbucket, GitHub, Jira, Docker</p>
+              </div>
             </div>
-          </div>
-          <div>
-            <h1
-              className="text-2xl font-bold hover:opacity-70"
-            >
-              Technical Stack / Software
-            </h1>
-            <p className="text-lg xl:text-xl">Next.js, TypeScript, Figma, Sass, Vercel, Azure, Bitbucket, GitHub, Jira, Docker</p>
           </div>
         </div>
         <div className="pb-10">
-          <div className="lg:wrap lg:flex">
+          <div className="lg:wrap lg:flex justify-center">
             <div>
               <div className="flex">
                 <Image
@@ -90,7 +90,7 @@ export default function ExperienceBlock() {
                   </Link>
                 </div>
               </div>
-              <div className="max-w-screen-lg py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
+              <div className=" py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
                 <h1 className="text-xl ">Front-End Developer</h1>
                 <p>
                   An independent creative studio in the heart of Leicester specialising in brand, digital and motion.
@@ -120,19 +120,19 @@ export default function ExperienceBlock() {
                   </li>
                 </ul>
               </div>
+              <div>
+                <h1
+                  className="text-2xl font-bold hover:opacity-70"
+                >
+                  Technical Stack / Software
+                </h1>
+                <p className="text-lg xl:text-xl">Next.js, Vue.js, React Native, Wordpress, Laravel, Tailwind, Figma, Sass</p>
+              </div>
             </div>
-          </div>
-          <div>
-            <h1
-              className="text-2xl font-bold hover:opacity-70"
-            >
-              Technical Stack / Software
-            </h1>
-            <p className="text-lg xl:text-xl">Next.js, Vue.js, React Native, Wordpress, Laravel, Tailwind, Figma, Sass</p>
           </div>
         </div>
         <div className="pb-10">
-          <div className="lg:wrap lg:flex">
+          <div className="lg:wrap lg:flex justify-center">
             <div>
               <div className="flex">
                 <Image
@@ -150,7 +150,7 @@ export default function ExperienceBlock() {
                   >PassMeFast</Link>
                 </div>
               </div>
-              <div className="max-w-screen-lg py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
+              <div className=" py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
                 <h1 className="text-xl ">Front-End Developer</h1>
                 <p>
                   Rebuild existing Front-End systems within a modern technology stack as well as make improvements to a bespoke CMS. Continuously adding and adjusting components based on results from A/B testing to increase conversion.
@@ -174,19 +174,19 @@ export default function ExperienceBlock() {
                   </li>
                 </ul>
               </div>
+              <div>
+                <h1
+                  className="text-2xl font-bold hover:opacity-70"
+                >
+                  Technical Stack / Software
+                </h1>
+                <p className="text-lg xl:text-xl">Next.js, Laravel, Sass, Docker, Jira, Bitbucket</p>
+              </div>
             </div>
-          </div>
-          <div>
-            <h1
-              className="text-2xl font-bold hover:opacity-70"
-            >
-              Technical Stack / Software
-            </h1>
-            <p className="text-lg xl:text-xl">Next.js, Laravel, Sass, Docker, Jira, Bitbucket</p>
           </div>
         </div>
         <div className="pb-10">
-          <div className="lg:wrap lg:flex">
+          <div className="lg:wrap lg:flex justify-center">
             <div>
               <div className="flex">
                 <Image
@@ -204,7 +204,7 @@ export default function ExperienceBlock() {
                   >MMT Digital</Link>
                 </div>
               </div>
-              <div className="max-w-screen-lg py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
+              <div className=" py-3 lg:text-xl [&>h1]:pb-1 [&>h1]:pt-4 [&>h1]:text-xl [&>h1]:font-bold">
                 <h1 className="text-xl ">Front-End Developer</h1>
                 <p>
                   Developed with React, HTML, CSS/SCSS, and JavaScript to build and maintain websites for over 12 different clients. Communicated with stakeholders and client teams on a weekly basis. Performed deployments, CMS changes and monitoring reports.
@@ -237,15 +237,15 @@ export default function ExperienceBlock() {
                   </li>
                 </ul>
               </div>
+              <div>
+                <h1
+                  className="text-2xl font-bold hover:opacity-70"
+                >
+                  Technical Stack / Software
+                </h1>
+                <p className="text-lg xl:text-xl">React (Vite), Gatsby, Kentico CMS, Kontent CMS, Sass, Jira, Azure, Bitbucket</p>
+              </div>
             </div>
-          </div>
-          <div>
-            <h1
-              className="text-2xl font-bold hover:opacity-70"
-            >
-              Technical Stack / Software
-            </h1>
-            <p className="text-lg xl:text-xl">React (Vite), Gatsby, Kentico CMS, Kontent CMS, Sass, Jira, Azure, Bitbucket</p>
           </div>
         </div>
       </div>

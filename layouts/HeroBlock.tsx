@@ -17,7 +17,7 @@ export default function HeroBlock() {
         <div className="flex justify-between text-lg">
           {/* TODO: Add correct links */}
           <Link
-            href="#"
+            href="#Experience"
           >
             experience
           </Link>

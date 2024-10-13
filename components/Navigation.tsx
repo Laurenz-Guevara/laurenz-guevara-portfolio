@@ -51,7 +51,7 @@ export default function Home() {
                 <div className="text-3xl">
                   <Link
                     className="text-offwhite"
-                    href="#"
+                    href="#Experience"
                   >experience</Link>
                 </div>
                 <div className="text-3xl">
