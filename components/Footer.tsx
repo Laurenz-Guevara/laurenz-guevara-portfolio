@@ -23,48 +23,88 @@ export default function Home() {
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">
-                experience
-              </a>
+              <Link
+                href="#Experience"
+                className="text font-medium"
+              >
+                Experience
+              </Link>
             </div>
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">github</a>
+              <Link
+                className="text font-medium"
+                href="https://github.com/Laurenz-Guevara"
+                target="_blank"
+              >Github</Link>
             </div>
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">linkedin</a>
+              <Link
+                className="text font-medium"
+                href="https://www.linkedin.com/in/laurenzguevara"
+                target="_blank"
+              >
+                Linkedin
+
+              </Link>
             </div>
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">contact</a>
+              <Link
+                className="text font-medium"
+                href="mailto:laurenz.guevara@gmail.com"
+              >
+                Contact
+              </Link>
             </div>
           </div>
           <div className="flex flex-wrap md:w-1/2">
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">
-                text
-              </a>
+              <p
+                className="text font-medium text-offwhite"
+              >
+                Projects
+              </p>
+
             </div>
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">text</a>
+              <Link
+                className="text font-medium"
+                href="https://github.com/Laurenz-Guevara/ventus-verba"
+                target="_blank"
+              >
+                Ventus Verba
+              </Link>
             </div>
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">text</a>
+              <Link
+                className="text font-medium"
+                href="https://github.com/Laurenz-Guevara/cliff-crafts"
+                target="_blank"
+              >
+                Cliff Crafts
+              </Link>
             </div>
             <div
               className="my-1 w-full text-right md:text-left [&>a]:text-offwhite"
             >
-              <a href="#" className="text font-medium">text</a>
+              <Link
+                className="text font-medium"
+                href="https://github.com/Laurenz-Guevara/repetise-dev"
+                target="_blank"
+              >
+                Repetise
+              </Link>
             </div>
           </div>
         </div>
@@ -72,7 +112,7 @@ export default function Home() {
       <div className="page-container hidden bg-secondary py-5 md:block">
         <div className="flex justify-between">
           <p className="text-2xl text-offwhite">Laurenz Guevara</p>
-          {/* <p className="text-offwhite">Laurenz Guevara</p> */}
+          <p className="text-offwhite">Status: Looking For Work</p>
         </div>
       </div>
     </div>

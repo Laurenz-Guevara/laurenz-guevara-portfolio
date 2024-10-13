@@ -21,12 +21,20 @@ export default function HeroBlock() {
           >
             experience
           </Link>
+          {/* TODO: Update with section */}
+          <Link
+            href="https://github.com/Laurenz-Guevara?tab=repositories"
+          >
+            projects
+          </Link>
           <Link
             href="https://github.com/Laurenz-Guevara"
+            target="_blank"
           >github</Link>
 
           <Link
             href="https://www.linkedin.com/in/laurenzguevara"
+            target="_blank"
           >
             linkedin
 
