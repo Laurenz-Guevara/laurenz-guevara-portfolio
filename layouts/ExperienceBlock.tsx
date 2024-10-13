@@ -221,7 +221,7 @@ export default function ExperienceBlock() {
                     Provided front-end knowledge and assistance within my team which led to an overall increase in the speed and completion of front-end weighted tickets.
                   </li>
                   <li>
-                    Developed with RESTful API's and Content Management Systems such as Kentico and Kontent.
+                    Developed with RESTful API&apos;s and Content Management Systems such as Kentico and Kontent.
                   </li>
                   <li>
                     Slashed developer setup time for projects by rewriting and correcting technical documentation.

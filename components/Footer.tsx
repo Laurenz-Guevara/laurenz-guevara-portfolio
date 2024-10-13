@@ -12,7 +12,7 @@ export default function Home() {
             className="pb-5 text-right text-xl text-offwhite md:text-left lg:text-2xl xl:text-3xl [&>a]:text-offwhite [&>a]:underline"
           >
             <p>
-              Oh you're still here?
+              Oh you&apos;re still here?
             </p>
             <p>Why not get in touch and find your fit</p>
             <Link href="mailto:laurenz.guevara@gmail.com" >laurenz.guevara@gmail.com</Link>
