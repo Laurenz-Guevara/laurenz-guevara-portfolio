@@ -26,6 +26,7 @@ export default function Home() {
 
   return (
     <nav className="md:hidden">
+      {/* TODO: Bug on IOS mobile when opening menu it is hidden by the Safari search bar */}
       {toggleMenu === false ? (
         <div
           className={`page-container fixed bottom-0 z-50 flex w-full justify-between bg-secondary py-4 text-offwhite ${isBottom ? "border-t border-offwhite md:border-t-0" : ""}`}
