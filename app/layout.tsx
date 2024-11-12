@@ -18,7 +18,7 @@ const Satoshi = localFont({
 
 export const metadata: Metadata = {
   title: "Laurenz Guevara - Front-end Developer", description:
-    "Front-end Developer with Startup, Agency, and in-house experience across multiple tech stacks in all types of industries and I'm genuinely passionate about what I do.",
+    "Front-end Developer with Startup, Agency, and in-house experience across multiple tech stacks in a range of industries and I'm genuinely passionate about what I do.",
 };
 
 export default function RootLayout({
