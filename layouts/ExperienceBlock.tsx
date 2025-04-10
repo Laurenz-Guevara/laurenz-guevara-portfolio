@@ -47,27 +47,18 @@ export default function ExperienceBlock() {
                 <h1>My Role at Scorado</h1>
                 <ul className="list-disc pl-6 [&>li]:list-disc [&>li]:pb-1">
                   <li>
-                    Actively engaged in the startup’s collaborative culture,
-                    bridging gaps between development and design by leveraging
-                    my previous agency and front-end experience to bring a fresh
-                    perspective.
+                    Developed a Next.js front end from Figma designs with a
+                    focus on maintainability, ease in case of future refactors,
+                    and ensuring long-term stability. Simultaneously,
+                    implemented isolated UI component tests using React Cosmos.
                   </li>
                   <li>
-                    Took on additional responsibility by developing a blog site
-                    for the company from scratch using Hugo and Tailwind.
+                    Building a company blog site using Hugo, Tailwind, CI/CD
+                    pipeline deploying via GitHub actions to GitHub pages.
                   </li>
                   <li>
-                    Developed the front end with a focus on long-term,
-                    maintainable code, minimising the need for refactoring and
-                    ensuring stability over time.
-                  </li>
-                  <li>
-                    Built components using React Cosmos for isolated and rapid
-                    testing.
-                  </li>
-                  <li>
-                    Collaborated closely with a back-end developer to seamlessly
-                    integrate front-end with APIs.
+                    Collaborated closely with the back-end team to integrate
+                    front-end components with APIs.
                   </li>
                 </ul>
               </div>
@@ -76,8 +67,7 @@ export default function ExperienceBlock() {
                   Technical Stack / Software
                 </h1>
                 <p className="text-lg xl:text-xl">
-                  Next.js, TypeScript, Figma, Sass, Vercel, Azure, Bitbucket,
-                  GitHub, Jira, Docker
+                  Next.js, TypeScript, SCSS, React Cosmos, Tailwind, Figma
                 </p>
               </div>
             </div>
@@ -115,38 +105,20 @@ export default function ExperienceBlock() {
                   <li>
                     Development of websites using Vue.js, leveraging WordPress
                     Rest Integration to retrieve data from Advanced Custom
-                    Fields (ACF)
+                    Fields (ACF). Translating designs from Figma on a tight
+                    timeline and accurately.
                   </li>
                   <li>
-                    Changed our approach to email template creation, resulting
-                    in significant time savings and an enhanced developer
-                    experience.
-                  </li>
-                  <li>
-                    Contributed to the enhancement of existing features in a
-                    React Native app.
-                  </li>
-                  <li>
-                    Additionally within the discovery process, independently set
-                    up a React Native app using Expo, creating a functional
-                    prototype with Mapbox. While waiting for the API to be
-                    finished, I created and deployed my own to use with dummy
-                    content.
+                    Optimised our approach to email template creation, resulting
+                    in significant time savings and making it much easier to
+                    create. Also responsible for ensuring emails are sent out,
+                    accurately, on time via Mailchimp.
                   </li>
                   <li>
                     Conducted monthly maintenance activities across multiple
                     sites, monitoring uptime, performing database backups, and
                     SSH into VPS to execute package and security updates,
                     including WordPress plugins.
-                  </li>
-                  <li>
-                    Initiated the setup of Laravel with Inertia for an upcoming
-                    project, utilizing Docker to streamline the development
-                    environment.
-                  </li>
-                  <li>
-                    From new designs from the creative side, I developed and
-                    built the front-end for an upcoming rebuild.
                   </li>
                 </ul>
               </div>
@@ -155,8 +127,8 @@ export default function ExperienceBlock() {
                   Technical Stack / Software
                 </h1>
                 <p className="text-lg xl:text-xl">
-                  Next.js, Vue.js, React Native, Wordpress, Laravel, Tailwind,
-                  Figma, Sass
+                  Vue, Next.js, TypeScript, Tailwind, SCSS, Figma, Digital
+                  Ocean, AWS S3, React Native, Docker
                 </p>
               </div>
             </div>
@@ -194,24 +166,18 @@ export default function ExperienceBlock() {
                 <h1>My Role at PassMeFast</h1>
                 <ul className="list-disc pl-6 [&>li]:list-disc [&>li]:pb-1">
                   <li>
-                    Delivered Front-end components based on Figma designs while
-                    working closely with a UI/UX Designer.
+                    Developed front-end components from Figma designs,
+                    collaborating closely with a UI/UX Designer. Translating
+                    existing projects from Laravel to Next.js.
                   </li>
                   <li>
-                    Rebuilding existing projects from Laravel into Next.js
-                    independently from scratch.
+                    Implemented features that enhanced customer conversion
+                    rates, based on A/B testing. Improved the internal CMS by
+                    automating manual tasks, supporting the content team.
                   </li>
                   <li>
-                    Developed features that provided a solid impact on customer
-                    conversion rates increasing revenue.
-                  </li>
-                  <li>
-                    Supported the content team alongside providing improvements
-                    to the internal CMS by automating manual tasks.
-                  </li>
-                  <li>
-                    Communicated frequently across all internal teams with
-                    demos, knowledge, and support of various systems.
+                    Regularly communicated across teams, providing demos,
+                    knowledge sharing, and system support.
                   </li>
                 </ul>
               </div>
@@ -220,7 +186,7 @@ export default function ExperienceBlock() {
                   Technical Stack / Software
                 </h1>
                 <p className="text-lg xl:text-xl">
-                  Next.js, Laravel, Sass, Docker, Jira, Bitbucket
+                  Laravel, Next.js, Vite.js, Tailwind, SCSS, Sanity CMS
                 </p>
               </div>
             </div>
@@ -259,38 +225,21 @@ export default function ExperienceBlock() {
                 <h1>My Role at MMT Digital:</h1>
                 <ul className="list-disc pl-6 [&>li]:list-disc [&>li]:pb-1">
                   <li>
-                    Built new accessible and mobile-friendly pages, forms and
-                    components on React.
+                    Troubleshoot and resolve both front-end and back-end bugs
+                    under tight deadlines. Built accessible, mobile-friendly
+                    pages, forms, and components with React.
                   </li>
                   <li>
-                    Troubleshooting and resolving both Front-end and Back-end
-                    bugs within tight response deadlines.
+                    Worked with RESTful APIs and CMS platforms like Kentico and
+                    Kontent.
                   </li>
                   <li>
-                    Provided front-end knowledge and assistance within my team
-                    which led to an overall increase in the speed and completion
-                    of front-end weighted tickets.
-                  </li>
-                  <li>
-                    Developed with RESTful API&apos;s and Content Management
-                    Systems such as Kentico and Kontent.
-                  </li>
-                  <li>
-                    Slashed developer setup time for projects by rewriting and
-                    correcting technical documentation.
-                  </li>
-                  <li>
-                    Troubleshooting and resolving both Front-end and Back-end
-                    bugs within tight response deadlines.
+                    Participated and occasionally led weekly meetings with
+                    stakeholders and around 12 different clients.
                   </li>
                   <li>
                     Performed critical incident management and provided
                     monitoring reports for clients.
-                  </li>
-                  <li>
-                    One of two developers assigned to build a React Gatsby
-                    website from scratch for a client with a month turnaround.
-                    The client later signed for support and monitoring service.
                   </li>
                 </ul>
               </div>
@@ -299,8 +248,8 @@ export default function ExperienceBlock() {
                   Technical Stack / Software
                 </h1>
                 <p className="text-lg xl:text-xl">
-                  React (Vite), Gatsby, Kentico CMS, Kontent CMS, Sass, Jira,
-                  Azure, Bitbucket
+                  React (Gatsby), SCSS, Kentico & Kentico Kontent CMS, Azure,
+                  GitHub
                 </p>
               </div>
             </div>
